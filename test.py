@@ -1,1 +1,3 @@
-print(10+5)
+suma = 10 + 5
+
+print(suma)
